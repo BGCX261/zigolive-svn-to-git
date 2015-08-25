@@ -1,0 +1,5 @@
+<config>
+	<depends-on>
+		<plugin>NuggetTest2</plugin>
+	</depends-on>
+</config>

@@ -1,0 +1,10 @@
+
+php_value include_path ".;C:/Documents and Settings/Administrator/workspace/BarBottin/lib/PEAR"
+
+RewriteEngine on
+RewriteRule   ^lib/.*						-				   [L]
+RewriteRule   ^static/.*	       			-                  [L]
+RewriteRule   ^index\.php.*       			-                  [L]
+RewriteRule   ^img.*       					-                  [L]
+RewriteRule    ^(.*)			 			index.php/$1       [L]	
+

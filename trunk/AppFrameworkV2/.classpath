@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin" path="src"/>
+	<classpathentry kind="src" output="plugins/Plugin1" path="plugins/Plugin1"/>
+	<classpathentry kind="src" output="apps/App1" path="apps/App1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AppFrameworkTests2"/>
+	<classpathentry kind="lib" path="lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen.jar"/>
+	<classpathentry kind="lib" path="apps/App1/commons-cli-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

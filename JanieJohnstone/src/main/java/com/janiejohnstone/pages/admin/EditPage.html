@@ -1,0 +1,42 @@
+
+<html>
+    <head>
+        <title>Manage Pages</title>
+    </head>
+    <body>
+       	<wicket:extend>
+	    
+	    	<form wicket:id="form">
+	    		<table border=1>
+	    			<tr>
+	    				<td>Title</td><td><input wicket:id="title"/></td>
+	    			</tr>
+	    			<tr>
+	    				<td>Parent</td><td><select wicket:id="parent"/></td>
+	    			</tr>
+	    			<tr>
+	    				<td>Content </td><td> <textarea wicket:id="centralContent"></textarea></td>
+	    			</tr>
+	    			<tr wicket:id="editImage">
+	    				
+	    			</tr>
+	    			<tr>
+	    				<a wicket:id="newImage">New Image</a><br>
+	    			</tr>
+	    			<tr>
+	    			<td>Set as Home Page</td><td><input type="checkbox" wicket:id="homePage"/></td>
+	    			</tr>
+	    			<tr>
+	    				<input type="submit" value="Save!"/><br/>
+	    			</tr>
+	    		</table>
+	    	</form>
+       	</wicket:extend>
+    	
+    </body>
+</html>
+
+
+
+
+

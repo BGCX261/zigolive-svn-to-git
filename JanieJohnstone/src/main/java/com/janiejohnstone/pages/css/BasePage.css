@@ -1,0 +1,33 @@
+/* set millions of background images */
+//.rbroundbox { background: url(images/bg.gif) repeat; }
+.rbtop div { 
+	background: url(images/tl.gif) no-repeat top left; }
+.rbtop { 
+	background: url(images/tr.gif) no-repeat top right; }
+.rbbot div { 
+	background: url(images/bl.gif) no-repeat bottom left; }
+.rbbot { 
+	background: url(images/br.gif) no-repeat bottom right; }
+
+/* height and width stuff, width not really nessisary. */
+.rbtop div, .rbtop, .rbbot div, .rbbot {
+	width: 100%;
+	height: 7px;
+	font-size: 1px;}
+.rbcontent { 
+	margin: 10px; }
+.rbroundboxTitle { 
+	background: url(images/bg.gif) repeat;
+	width: 80%; } 
+.rbroundboxContent { 
+	background: url(images/bg.gif) repeat;
+	width: 50%;
+	float:left; 
+	margin:5px;}
+.rbroundboxLeftMenu { 
+	background: url(images/bg.gif) repeat;
+	width: 28%;
+	float:left; 
+	margin:5px;}
+.seperator { 
+	padding:10px }

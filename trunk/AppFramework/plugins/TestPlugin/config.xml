@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<config>
+	<name>TestPlugin</name>
+	<dir>TestPlugin/</dir>
+	<class>com.zigomushy.appframeworktests.TestPlugin</class>
+	<desc>This is a very Simple Test Plugin</desc>
+</config>
+

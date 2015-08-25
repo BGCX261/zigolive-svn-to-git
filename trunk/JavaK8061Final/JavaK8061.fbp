@@ -1,0 +1,13 @@
+[Project]
+Version=2
+Description=Java Dll wrapper for the Vellemen k8061.dll
+Api=fb (FreeBASIC)
+[Make]
+Current=1
+1=JNI DLL,fbc -dll -Wl --kill-at
+Recompile=2
+Module=Module Build,fbc -c
+[File]
+1=JavaK8061.bas
+[FileInfo]
+1=0,215,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

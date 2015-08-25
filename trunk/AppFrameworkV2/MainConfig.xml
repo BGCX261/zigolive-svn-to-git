@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<config>
+	<root-folder>G:/ECLIPSE_WORKBENCH/AppFrameworkTests/</root-folder>
+	<lib-folder>lib/</lib-folder>
+	<apps-folder>apps/</apps-folder>
+	<application name="App1">
+		<root-folder>App1/</root-folder>
+		<main-class>timmytest.Test</main-class>
+	</application>
+</config>

@@ -1,0 +1,16 @@
+
+
+- nuggets create-app 
+configures an eclipse project folder so that it can be used as an app in the framework
+
+- nuggets list-nuggets
+List available nuggets (plugins) on the server
+
+- nuggets get-nugget <name>
+
+- nuggets get-nugget-info <name>
+
+- nuggets update-nugget <name>
+
+- nuggets remove-nugget <name>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/db-derby-10.2.2.0-bin/lib/derby.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-3.2/hibernate3.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-annotations-3.3.0.GA/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-3.2/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-3.2/lib/asm.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-3.2/lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-3.2/lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-3.2/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-3.2/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-3.2/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-3.2/lib/jta.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-3.2/lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-annotations-3.3.0.GA/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="com/zigolive/lib/hibernate-annotations-3.3.0.GA/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

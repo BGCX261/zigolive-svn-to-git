@@ -1,0 +1,24 @@
+;dlltool -k -d k8055.def -l libk8055.dll.a
+LIBRARY K8061.dll
+EXPORTS
+ClearAllAnalog@4
+ClearAllDigital@4
+ClearAnalogChannel@8
+ClearDigitalChannel@8
+CloseDevices@0
+Connected@4
+OpenDevice@0
+OutputAllAnalog@8
+OutputAllDigital@8
+OutputAnalogChannel@12
+OutputPWM@8
+PowerGood@4
+ReadAllAnalog@8
+ReadAllDigital@4
+ReadAnalogChannel@8
+ReadDigitalChannel@8
+ReadVersion@8
+SetAllAnalog@4
+SetAllDigital@4
+SetAnalogChannel@8
+SetDigitalChannel@8

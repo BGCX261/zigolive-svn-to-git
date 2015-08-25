@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<config>
+	<root>D:/Documents and Settings/James.JAMES-D8E9CC836/My Documents/workspace/AppFramework/</root>
+	<lib>lib/</lib>
+	<bin>bin/</bin>
+	<plugins>plugins/</plugins>
+	<nuggetrepo name='Main nugget repo'>http://zigolive.googlecode.com/svn/trunk/ZigoLiveNuggets/</nuggetrepo>
+	<apps>apps/</apps>	
+	<version>0.0</version>
+	<startapp name='TestApp'/>
+</config>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<config>
+	<name>ApplicationTest</name>
+	<root>TestApp/</root>
+	<class>com.zigolive.applications.test.Test</class>
+	<plugin name='TestPlugin' autodownload='true'/>
+	<plugin name='TestPlugin2' autodownload='true'/>
+</config>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<config>
+	<global>
+		<root>g:/ECLIPSE_WORKBENCH/PluginArchitecture/</root>
+		<libs>g:/ECLIPSE_WORKBENCH/PluginArchitecture/lib/</libs>
+		<version>0.0</version>
+	</global>
+	<plugin name='TestPlugin'>
+		<class>com.zigolive.plugin.exampleplugin.TestPlugin</class>
+		<desc>This is a very Simple Test Plugin</desc>
+	</plugin>
+</config>

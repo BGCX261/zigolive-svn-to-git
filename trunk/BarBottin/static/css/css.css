@@ -1,0 +1,137 @@
+
+body, table, td{
+	padding:0;
+	margin:0;
+	color:#333;
+	font: 100% Verdana, Geneva, Arial, Helvetica, "Bitstream Vera Sans", sans-serif;
+	font-size: small;
+	line-height: 180%	
+}
+
+a:link {
+	color:#000;
+}
+a:visited {
+	color:#000;
+}
+a:hover {
+	color:#999;
+}
+
+			/* #### COULEURS #### */
+
+.TextRouge1 {color:#f00;}
+
+
+
+			/* #### ARCHITECTURE GENERALE #### */
+
+.ColumnContentTable {
+}
+
+td.ColumnLarge{
+	padding:5px;
+	width:522px;
+}
+
+td.ColumnSmall{
+	padding:5px;
+	width:260px;
+}
+
+
+
+			/* #### LES H123456787 #### */
+
+
+
+
+
+			/* #### LES FORMS #### */
+
+.FormBoxName{
+	background:url("../images/main/fond_pointilles.gif") repeat top left;
+	border-bottom:1px solid #6ac720;
+}
+
+.FormBoxNameTxt{
+	border:0px solid green;
+	display:inline;
+	margin:0 0 0 20px;
+	padding:15px 10px 3px 5px;
+	background:#fff;
+	color:#6ac720;
+	font-weight:bold;
+}
+
+.FormBox{
+	border-left:1px solid #f0f0f0;
+	border-right:1px solid #f0f0f0;
+	border-bottom:1px solid #f0f0f0;
+	margin:0 0 20px 0;
+	padding:10px 0 0 10px;
+}
+
+.FormTxtInfos{
+	font-style:italic;
+	background:#f9f9f9;
+	padding:10px;
+	font-size:x-small;
+	color:#999;
+	line-height:160%;
+}
+
+input.FormWWButton {
+	font-weight:bold;
+	text-align:center;
+	background:#6ac720;
+	color:#fff;
+	border:none;
+	height:30px;
+	margin:0 5px;
+}
+
+.FormAmbiance {
+	width:100%;
+	margin:0 0 25px 0;
+}
+
+table.FormAmbiance td {
+	height:25px;
+	border-bottom:1px solid #f0f0f0;
+}
+
+table.FormImage {
+	width:100%;
+	margin:0 0 25px 0;
+}
+
+table.FormAmbiance td {
+	height:25px;
+	border-bottom:1px solid #f0f0f0;
+}
+
+table.FormImage td {
+	margin:0 0 25px 0;
+	border-bottom:1px solid #f0f0f0;
+}
+
+.FormBoxBrowse {
+	background:#f0f0f0;
+	padding:10px 0;
+	text-align:center;
+}
+
+
+
+			/* #### LES BOXS #### */
+
+.BoxTitrePage{
+	background:url("../images/main/fond_pointilles.gif") repeat-x top left;
+	border-top:3px solid #6ac720;
+	margin:0 5px 15px 5px;
+	padding:6px;
+	font-weight:bold;
+}
+
+
